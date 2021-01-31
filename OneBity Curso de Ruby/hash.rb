@@ -1,0 +1,1 @@
+hash={ 1=>'digite seu valor', 2=>'escolha mais uma', 3=>'ultima '}
